@@ -1,3 +1,1 @@
-<h1 align="center">
-    <img alt="Launchbase" src="" width="400px" />
-</h1>
+![alt text](https://github.com/anthonygomes849/trinity-estagio/blob/master/assets/trinitylogo.jpg?raw=true)
