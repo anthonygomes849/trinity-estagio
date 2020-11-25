@@ -5,11 +5,6 @@
   Teste para desenvolvimento frontend
 </h3>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre a proposta</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 ## :rocket: Proposta
 
